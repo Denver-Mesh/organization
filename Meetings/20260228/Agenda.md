@@ -27,6 +27,7 @@ This document will be finalized and shared no later than **48 hours prior** to t
   - `omgitsgela`'s deployment of a MeshCore repeater on Lookout Mountain
   - `Zeva` helping craft v2.0 of the MeshCore naming scheme with airport codes
 - Acknowledge other organization existence
+- Ryan Larkin Invitation Adventure Race - great proving ground for Meshtastic: https://www.rliar.org/
 
 ## 4. Meeting Purpose (2 minutes)
 
