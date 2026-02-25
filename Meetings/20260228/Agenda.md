@@ -1,10 +1,8 @@
-This document is a WORKING DRAFT until finalized. Input and adjustments are welcome.
-
-This document will be finalized and shared no later than **48 hours prior** to the scheduled meeting.
+**Finalized: 02/24/2028**
 
 # Agenda for 02/28/2026 Town Hall Meeting
 
-**Total estimated time:** 82 minutes
+**Total estimated time:** 87 minutes
 
 ## 1. Welcome and Introductions (5 minutes)
 
@@ -71,7 +69,7 @@ This document will be finalized and shared no later than **48 hours prior** to t
   - Communication channels and protocols
     - Discussion regarding future Discord usage will be reserved for a later agenda item
     
-## 8. Solicitation of Volunteers or Nominations for Board Positions (10 minutes)
+## 8. Solicitation of Volunteers (10 minutes)
 
 - Solicit volunteers to form committee(s) to further develop organizational goals and structure
   - Education
@@ -80,10 +78,11 @@ This document will be finalized and shared no later than **48 hours prior** to t
   - Event participation & Volunteering
 - How does everyone feel about a non-profit or other organizaitonal role
   - How likely are members to donate?  Frequency? Amount?
+  
 ## 9. Website Upgrades & Changes (5 minutes)
 - Regional portals / webpages with Ops
 - Mapping software updates and integration with backend server
-- Updates for Meshcore & Reticulum
+- Updates for MeshCore & Reticulum
 - Content types & Editing
   
 ## 10. Open Floor for Questions and Discussion (20 minutes)
