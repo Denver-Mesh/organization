@@ -74,12 +74,19 @@ This document will be finalized and shared no later than **48 hours prior** to t
 ## 8. Solicitation of Volunteers or Nominations for Board Positions (10 minutes)
 
 - Solicit volunteers to form committee(s) to further develop organizational goals and structure
-- Solicit nominations for potential board members (if applicable)
-  - Clarification that nominations do not necessarily constitute appointments to the board
-  - Discussion of next steps for nominated individuals (e.g., vetting process, interviews, etc.)
-
+  - Education
+  - Guidance for Network modes
+  - Node modes suggestions (repeater, client, etc)
+  - Event participation & Volunteering
+- How does everyone feel about a non-profit or other organizaitonal role
+  - How likely are members to donate?  Frequency? Amount?
+## 9. Website Upgrades & Changes
+- Regional portals / webpages with Ops
+- Mapping software updates and integration with backend server
+- Updates for Meshcore & Reticulum
+- Content types & Editing
   
-## 9. Open Floor for Questions and Discussion (20 minutes)
+## 10. Open Floor for Questions and Discussion (20 minutes)
 
 - Open the floor for any questions, comments, or concerns from members
   - Questions regarding Discord usage will be allowed here
