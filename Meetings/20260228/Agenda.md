@@ -80,7 +80,7 @@ This document will be finalized and shared no later than **48 hours prior** to t
   - Event participation & Volunteering
 - How does everyone feel about a non-profit or other organizaitonal role
   - How likely are members to donate?  Frequency? Amount?
-## 9. Website Upgrades & Changes
+## 9. Website Upgrades & Changes (5 minutes)
 - Regional portals / webpages with Ops
 - Mapping software updates and integration with backend server
 - Updates for Meshcore & Reticulum
