@@ -22,10 +22,11 @@ This document will be finalized and shared no later than **48 hours prior** to t
 
 - Highlighting of recent achievements and contributions by members
   - `M3SHGHØST`'s deployment of a MeshCore repeater on Mount Morrison
-  - TBD
-- Acknowledge partner organizations and collaborators
-  - NoCo Mesh
-  - Denver MC
+  - `NVON`'s native Mac client for Meshtastic
+  - `dude.eth` Reticulum client
+  - `omgitsgela`'s deployment of a MeshCore repeater on Lookout Mountain
+  - `Zeva` helping craft v2.0 of the MeshCore naming scheme with airport codes
+- Acknowledge other organization existence
 
 ## 4. Meeting Purpose (2 minutes)
 
