@@ -40,6 +40,7 @@
 
 ## 5. Organizational Updates (5 minutes)
 
+- Proposed name change to Colorado Mesh?
 - Overview of recent activities and developments within the organization
   - Update on GitHub Sponsors program and donation management
   - Update on ongoing projects and initiatives
